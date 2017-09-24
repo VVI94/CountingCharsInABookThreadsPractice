@@ -21,7 +21,7 @@ public class OccurancesOfACharInText {
 		System.out.println("=============== Using main thread ===============");
 		long startMain = System.currentTimeMillis();
 
-		System.out.println("Occurances in 5 threads: " + countOccurrences(text, ','));
+		System.out.println("Occurances in main thread: " + countOccurrences(text, ','));
 
 		System.out.println("Main time: " + (double) ((System.currentTimeMillis() - startMain) / 1000.0));
 
