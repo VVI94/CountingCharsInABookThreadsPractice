@@ -1,0 +1,18 @@
+=============== Using main thread ===============
+Occurances in 5 threads: 26945
+Main time: 0.016
+=============== Using one thread ===============
+Occurances in one thread: 26945
+One thread time: 0.053
+=============== Using five threads ===============
+Part5: 5595
+Part4: 5403
+Part1: 5155
+Part2: 5266
+Part3: 5526
+Occurances in 5 threads: 26945
+5 threads time: 0.016
+
+=============== Finished program ===============
+
+All time: 0.138
